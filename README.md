@@ -21,7 +21,7 @@ This repository contains Simulink files implementing Computed Torque Control (CT
 - Simulink
 
 ## Authors
-Sivanesan A, Department of Robotics and Automation, PSG College of Technology, Coimbatore, Tamil Nadu
-Priyadharshan R, Department of Robotics and Automation, PSG College of Technology, Coimbatore, Tamil Nadu
-Dr. M.P Anbarasi, Department of Robotics and Automation, Faculty of Engineering Technology, PSG College of Technology, Coimbatore, Tamil Nadu
+Sivanesan A, Department of Robotics and Automation, PSG College of Technology, Coimbatore, Tamil Nadu.
+Priyadharshan R, Department of Robotics and Automation, PSG College of Technology, Coimbatore, Tamil Nadu.
+Dr. M.P Anbarasi, Department of Robotics and Automation, Faculty of Engineering Technology, PSG College of Technology, Coimbatore, Tamil Nadu.
 
