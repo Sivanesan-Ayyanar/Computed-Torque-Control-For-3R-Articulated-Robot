@@ -4,7 +4,9 @@
 ## Overview
 This repository contains Simulink files implementing Computed Torque Control (CTC) for a 3R articulated robot. The Simulink model includes:
 - Mechanical model of the 3R robot
+  ![Robot](Robot.png)
 - Control blocks for implementing CTC
+  ![Blocks](Block Diagram.png)
 - Trajectory planning simulations
 
 ## Contents
